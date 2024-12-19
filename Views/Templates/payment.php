@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<link href="bootstrap/bootstrap.css" rel="stylesheet">
-<script src="bootstrap/bootstrap.bundle.js"></script>
-<script src="bootstrap/bootstrap.js"></script>
-<link rel="stylesheet" href="Css/css.css">
-<link rel="stylesheet" href="fontawesome/css/all.css">
-<link rel="stylesheet" href="slick/slick-1.8.1/slick/slick.css">
-<link rel="stylesheet" href="slick/slick-1.8.1/slick/slick-theme.css">
+<?php include_once "Views/Templates/link.php";?>
 <head>
     <?php include_once "Views/Templates/Partials/Head.php";?>
 </head>

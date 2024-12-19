@@ -37,16 +37,14 @@ class ModelShoes
     public function getDataHome(){
         $query = "SELECT *
                   FROM product
-                  LIMIT 1, 15";
+                  ";
         $result = mysqli_query($this->db, $query);
         return $result;
     }
     // lay du lieu trang giay nam
     public function getDataMen(){
         $query = "SELECT * 
-                  FROM product, type
-                  WHERE product.id_type = type.id_type
-                  AND product.id_type = '1'";
+                  FROM product";
         $result = mysqli_query($this->db, $query);
         return $result;
     }

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include_once "Templates/link.php";?>
+<?php include_once "Views/Templates/link.php";?>
 <head>
     <?php include_once "Views/Templates/Partials/Head.php";?>
 </head>

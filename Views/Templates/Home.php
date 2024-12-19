@@ -7,7 +7,7 @@
     <title>TEELAB</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link type="text/css" rel="stylesheet" href="./Css/index.css">
+    
 </head>
 <body>
     <div>
@@ -77,11 +77,11 @@
         <div class="slide-show">
             <a href="">
                 <div class="list-images">
-                    <img src="./image/images/slider_1.webp" alt="">
-                    <img src="./image/images/slider_2.webp" alt="">
-                    <img src="./image/images/slider_3.webp" alt="">
-                    <img src="./image/images/slider_4.webp" alt="">
-                    <img src="./image/images/slider_5.webp" alt="">
+                    <img src="./Views/image/images/slider_1.webp" alt="">
+                    <img src="./Views/image/images/slider_2.webp" alt="">
+                    <img src="./Views/image/images/slider_3.webp" alt="">
+                    <img src="./Views/image/images/slider_4.webp" alt="">
+                    <img src="./Views/image/images/slider_5.webp" alt="">
                 </div>
             </a>
             <div class="btns">
@@ -110,7 +110,7 @@
                 Không chỉ là thời trang, TEELAB còn là “phòng thí nghiệm” của tuổi trẻ - nơi nghiên cứu và cho ra đời nguồn năng lượng mang tên “Youth”. Chúng mình luôn muốn tạo nên những trải nghiệm vui vẻ, năng động và trẻ trung.
             </div>
         </div>
-        <script src="./js/index.js"></script>
+        <script src="./Views/js/index.js"></script>
         <div class="bg-light">
     <div class="container">
         <h4 class="rounded" style="border-bottom: 3px solid black;">
@@ -135,6 +135,7 @@
                 </div>
             <?php }; ?>
         </div>
+ 
     </div>
 </div>
         <div class="container-feedback">

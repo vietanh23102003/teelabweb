@@ -4,7 +4,7 @@
 <link href="bootstrap/bootstrap.css" rel="stylesheet">
 <script src="bootstrap/bootstrap.bundle.js"></script>
 <script src="bootstrap/bootstrap.js"></script>
-<link rel="stylesheet" href="Css/css.css">
+<?php include_once "Views/Templates/link.php";?>
 <link rel="stylesheet" href="fontawesome/css/all.css">
 <link rel="stylesheet" href="slick/slick-1.8.1/slick/slick.css">
 <link rel="stylesheet" href="slick/slick-1.8.1/slick/slick-theme.css">
